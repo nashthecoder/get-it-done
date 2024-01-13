@@ -1,5 +1,7 @@
 # Get It Done
-## Project Brief
+![Logo](app/assets/images/gid-logo.png)
+
+### Manage your time, clients and payments.
 
 ## Iteration 1 - MVP:
 ### **Feature: User Profile:**
@@ -58,4 +60,3 @@
 ### **Feature: Expanded Marketing Features:**
 1. [ ] Allow consultants to create and promote events or webinars.
 2. [ ] Implement SEO-friendly profiles for better discoverability.
-
