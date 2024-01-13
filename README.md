@@ -3,8 +3,8 @@
 
 ### Iteration 1 - MVP:
 **Feature: User Profile:**
-2. [ ] Consultants can create and manage their profiles.
-4. [ ] Include basic information like name, contact details, and a brief bio.
+1. [ ] Consultants can create and manage their profiles.
+2. [ ] Include basic information like name, contact details, and a brief bio.
 
 **Feature: Calendar:**
 1. [ ] Consultants can input and share their available dates and times.
