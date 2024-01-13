@@ -1,24 +1,79 @@
-# README
+# Get It Done
+## Project Brief
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Iteration 1 - MVP:
 
-Things you may want to cover:
+Feature
+[ ] **User Profile:**
+[ ] Consultants can create and manage their profiles.
+[ ] Include basic information like name, contact details, and a brief bio.
 
-* Ruby version
+Feature
+[ ] **Calendar:**
+[ ] Consultants can input and share their available dates and times.
+[ ] Clients can view consultants' availability and request appointments.
 
-* System dependencies
+Feature
+[ ] **Payment Section:**
+[ ] Consultants can set up payment methods (e.g., bank transfer, PayPal).
+[ ] Clients can make payments securely through the platform.
 
-* Configuration
+Feature
+[ ] **Services Rate Card:**
+[ ] Consultants can create a list of services they offer.
+[ ] Include a brief description and pricing for each service.
 
-* Database creation
+Feature
+[ ] **Checkout Cart:**
+[ ] Clients can select services, view the total cost, and proceed to payment.
 
-* Database initialization
+### Iteration 2:
 
-* How to run the test suite
+Feature
+[ ] **Notifications:**
+[ ] Implement email or in-app notifications for appointment requests, confirmations, and cancellations.
 
-* Services (job queues, cache servers, search engines, etc.)
+Feature
+[ ] **Referral Link:**
+[ ] Consultants receive a unique referral link to share with potential clients.
+[ ] Incentives can be given for successful referrals.
 
-* Deployment instructions
+Feature
+[ ] **Contact Form:**
+[ ] Add a contact form for potential clients to inquire about services.
+[ ] This could be linked to consultants' profiles for easy communication.
 
-* ...
+### Future Iterations:
+
+Feature
+[ ] **Enhanced User Profiles:**
+[ ] Allow consultants to add portfolio items, testimonials, and certifications.
+[ ] Clients can leave reviews and ratings.
+
+Feature
+[ ] **Advanced Calendar Features:**
+[ ] Integration with popular calendar apps (Google Calendar, Outlook).
+[ ] Automated reminders for upcoming appointments.
+
+Feature
+[ ] **Interactive Rate Card:**
+[ ] Include visuals or multimedia elements to showcase previous work or case studies.
+[ ] Provide customizable packages with different pricing tiers.
+
+Feature
+[ ] **Analytics Dashboard:**
+[ ] Consultants can track their performance, including booked appointments, revenue, and client feedback.
+
+Feature
+[ ] **Mobile App:**
+[ ] Develop a mobile application for both consultants and clients for on-the-go access.
+
+Feature
+[ ] **Integration with Payment Gateways:**
+[ ] Integrate with popular payment gateways for seamless and secure transactions.
+
+Feature
+[ ] **Expanded Marketing Features:**
+[ ] Allow consultants to create and promote events or webinars.
+[ ] Implement SEO-friendly profiles for better discoverability.
+
